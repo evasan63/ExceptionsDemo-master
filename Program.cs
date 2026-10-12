@@ -2,6 +2,9 @@
 {
     internal class Program
     {
+        //--------------------------------------------//
+        // Exempel på try-catch-finally och throw     //
+        //--------------------------------------------//
         static void Main(string[] args)
         {
             {
